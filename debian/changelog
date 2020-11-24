@@ -1,0 +1,7 @@
+ffmulticonverter (1.8.0-1) unstable; urgency=medium
+
+  * Build with python 3.8
+
+ -- coolshou <coolshou2060@gmail.com>  Thu, 05 Mar 2020 17:54:31 +0100
+
+
