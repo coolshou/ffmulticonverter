@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
 import ffmulticonverter
-from distutils.core import setup
+try:
+    from setuptools import setup
+except ImportError:
+    from distutils.core import setup
 
 
 data_files = [('share/applications/', ['share/ffmulticonverter.desktop']),
