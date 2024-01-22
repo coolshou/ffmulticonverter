@@ -1,4 +1,4 @@
-ffmulticonverter (1.8.1-1) UNRELEASED; urgency=medium
+ffmulticonverter (1.8.1-20240122) unstable; urgency=medium
 
   * fix progress bar
 
